@@ -3,11 +3,11 @@ using Printf
 # PGM
 @printf("\n          WELCOME TO:         ")
 @printf("\n------------------------------")
-@printf("\n \U1FAE7\U1FAE7      \U1FAE7\U1FAE7\U1FAE7  \U1FAE7      \U1FAE7") 
-@printf("\n \U1FAE7  \U1FAE7  \U1FAE7        \U1FAE7\U1FAE7  \U1FAE7\U1FAE7")
-@printf("\n \U1FAE7\U1FAE7    \U1FAE7  \U1FAE7\U1FAE7  \U1FAE7\U1FAE7\U1FAE7\U1FAE7\U1FAE7")
-@printf("\n \U1FAE7      \U1FAE7    \U1FAE7  \U1FAE7  \U1FAE7  \U1FAE7")
-@printf("\n \U1FAE7        \U1FAE7\U1FAE7    \U1FAE7      \U1FAE7 ")
+@printf("\n \U1FAE7\U1FAE7      \U1FAE7\U1FAE7\U1FAE7   \U1FAE7   \U1FAE7") 
+@printf("\n \U1FAE7  \U1FAE7  \U1FAE7       \U1FAE7\U1FAE7 \U1FAE7\U1FAE7")
+@printf("\n \U1FAE7\U1FAE7    \U1FAE7  \U1FAE7\U1FAE7   \U1FAE7 \U1FAE7 \U1FAE7")
+@printf("\n \U1FAE7      \U1FAE7   \U1FAE7  \U1FAE7 \U1FAE7 \U1FAE7")
+@printf("\n \U1FAE7       \U1FAE7\U1FAE7\U1FAE7   \U1FAE7   \U1FAE7 ")
 @printf("\n------------------------------")
 println(" ")
 
